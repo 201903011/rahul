@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrahul=self.webpackChunkrahul||[]).push([[735],{1735:function(e,s,a){e.exports=a.p+"static/media/sih-one-point.023a3837889b185e342c.md"}}]);
