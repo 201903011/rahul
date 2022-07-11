@@ -1,7 +1,7 @@
 {
   "name": "rahul",
   "version": "0.1.0",
-  "homepage": "https://201903011.github.io/rahul/",
+  
   "private": true,
   "dependencies": {
     "-": "0.0.1",
@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "4.1.3",
     "disqus-react": "^1.1.1",
+    "firebase": "^9.9.0",
     "front-matter": "^4.0.2",
     "gh-pages": "^4.0.0",
     "markdown-to-jsx": "^7.1.3",
@@ -33,7 +34,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
